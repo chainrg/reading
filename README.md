@@ -48,3 +48,17 @@ This is a list of resources the Quilt team has found useful and relevant to our 
 
 ## Plasma
 * [Lower Bounds for Off-Chain Protocols: Exploring the Limits of Plasma](https://eprint.iacr.org/2020/175.pdf)
+
+## Distributed Hash Tables
+
+### Kademlia
+
+#### Overview
+
+* [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) - **The** paper that describes the Kademlia protocol.
+* Implementing a DHT in Go - Easy to follow walkthrough of building a Kademlia DHT in Go. Covers most of the basics, and you end up with something functional.
+  * [Part 1](http://blog.notdot.net/2009/11/Implementing-a-DHT-in-Go-part-1)
+  * [Part 2](http://blog.notdot.net/2009/11/Implementing-a-DHT-in-Go-part-2)
+
+#### Security
+* [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.4986&rep=rep1&type=pdf) - Discussion of attacks on the Kademlia protocol, and some mitigation strategies.
