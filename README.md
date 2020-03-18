@@ -25,7 +25,7 @@ This is a list of resources the Quilt team has found useful and relevant to our 
 * [Cross-chain Deals and Adversarial Commerce](https://arxiv.org/abs/1905.09743)
 
 ## State Provision
-* [The Data Availability Problem under Stateless Ethereum](https://ethresear.ch/t/the-data-availability-problem-under-stateless-ethereum/6973) 
+* [The Data Availability Problem under Stateless Ethereum](https://ethresear.ch/t/the-data-availability-problem-under-stateless-ethereum/6973)
 * [State Provider Models in Ethereum 2.0](https://ethresear.ch/t/state-provider-models-in-ethereum-2-0/6750/8)
 * [Automated Detection of Dynamic State Access in Solidity](https://ethresear.ch/t/automated-detection-of-dynamic-state-access-in-solidity/7003/4)
 
@@ -62,3 +62,16 @@ This is a list of resources the Quilt team has found useful and relevant to our 
 
 #### Security
 * [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.4986&rep=rep1&type=pdf) - Discussion of attacks on the Kademlia protocol, and some mitigation strategies.
+
+## Account Abstraction
+
+### Background
+
+* [Ethereum Account Abstraction Explained](https://ethgasstation.info/blog/ethereum-account-abstraction-explained/)
+* [Ethereum Roadmap: Account Abstraction](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/account-abstraction/)
+
+### Potential Implementation Strategies & Criticisms
+
+* [Implementing account abstraction as part of eth1.x](https://ethereum-magicians.org/t/implementing-account-abstraction-as-part-of-eth1-x/4020)
+* [Tradeoffs in account abstraction proposals](https://ethresear.ch/t/tradeoffs-in-account-abstraction-proposals/263)
+* [Abstraction of transaction origin and signature (EIP-86)](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-86.md)
